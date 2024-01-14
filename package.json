@@ -1,0 +1,12 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "nodemon asyncJS.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
